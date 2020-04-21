@@ -23,3 +23,4 @@
 - Kendilerine yakın olan insanlarla ve çevreleriyle kurdukları ilişkiler ile kendi biyolojik cinsiyetlerinden beklenen şeyleri öğrenirler. 
 - Yetişkinler kız çocuklarına kız çocuğu gibi, erkek çocuklarına erkek çocuğu gibi davranırlar. 
 - Örneğin kız çocuklarına doğduklarında pembe kıyafetler giydirilmesi, erkek çocuklarına mavi giydirilmesi. 
+- 

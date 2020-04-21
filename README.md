@@ -30,3 +30,4 @@
   * Bu kavram cinsiyetlerin bireylerin karşısına çıkan fırsatlar, kaynaklar, hizmetlere ulaşma gibi konularda cinsiyetler arasında oluşan kavramlara gönderme yapar.
   * Kadın ve Erkeklerin sorumlulukları ve gelir dağılımlarında adalet ve hakkaniyet olması gerekmektedir. 
   * Kadın ve erkeklerin farklı özelliklerin ve gereksinimlerinin olduğu kabul edilmeli, ve bu farklılıklardan dengesizliğin düzeltilmesi için gerekenler yapılmalıdır.
+  * Toplumun kadın ve erkek için biçtiği roller ve kalıplar her iki cinsi de olumsuz etkilemektedir.

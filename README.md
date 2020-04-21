@@ -25,4 +25,8 @@
 * Yetişkinler kız çocuklarına kız çocuğu gibi, erkek çocuklarına erkek çocuğu gibi davranırlar.  
 * Örneğin kız çocuklarına doğduklarında pembe kıyafetler giydirilmesi, erkek çocuklarına mavi giydirilmesi. 
 * Bebekler genellikle bilinçsiz olarak toplumsal cinsiyetlerini edinirler. Yetişkin bir erkeğin bebeği tutuşuyla bir kadının bebeği tutuşundaki fark bile o bebeğin cinsiyetler arasındaki farkı edinmesinde bir rol oynar.
-* 
+* Sadece çocuğun edinimi değil, toplumun beklentileri de çocuğu etkilemektedir. Doğum esnasında tespit edilmiş olan cinsiyet, o bebeğe karşı beklentileri de belirlemektedir. Erkek çocuklar adam olmak üzere, kız çocuklar hanım olmak üzere yetiştirilir.
+* Toplumsal cinsiyette eşitlik kavramı:
+  * Bu kavram cinsiyetlerin bireylerin karşısına çıkan fırsatlar, kaynaklar, hizmetlere ulaşma gibi konularda cinsiyetler arasında oluşan kavramlara gönderme yapar.
+  * Kadın ve Erkeklerin sorumlulukları ve gelir dağılımlarında adalet ve hakkaniyet olması gerekmektedir. 
+  * Kadın ve erkeklerin farklı özelliklerin ve gereksinimlerinin olduğu kabul edilmeli, ve bu farklılıklardan dengesizliğin düzeltilmesi için gerekenler yapılmalıdır.

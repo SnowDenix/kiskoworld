@@ -46,6 +46,8 @@
   > ID: Zevk ilkesine göre işleyen davranışların en temel içgüdünün ismidir.
   >
   > Ego: Id'nin hayvansal yaşam enerjisinin ortamın gereklerine göre ortaya çıkma şeklidir.
+  >
+  > Super Ego: İnsanların doğru veya yanlış olarak tanımlandırdığı kararlar.
 
 
 

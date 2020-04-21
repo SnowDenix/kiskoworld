@@ -1,4 +1,4 @@
-# :book: SUNUM
+# SUNUM
 
 ## Giriş 📖 
 
@@ -26,9 +26,11 @@
 * Örneğin kız çocuklarına doğduklarında pembe kıyafetler giydirilmesi, erkek çocuklarına mavi giydirilmesi. 
 * Bebekler genellikle bilinçsiz olarak toplumsal cinsiyetlerini edinirler. Yetişkin bir erkeğin bebeği tutuşuyla bir kadının bebeği tutuşundaki fark bile o bebeğin cinsiyetler arasındaki farkı edinmesinde bir rol oynar.
 * Sadece çocuğun edinimi değil, toplumun beklentileri de çocuğu etkilemektedir. Doğum esnasında tespit edilmiş olan cinsiyet, o bebeğe karşı beklentileri de belirlemektedir. Erkek çocuklar adam olmak üzere, kız çocuklar hanım olmak üzere yetiştirilir.
+* Kadınların erkekler tarafında ezilmesine sebep olan **"nazlı kızım", "aslan oğlum"** gibi sözcükler çocukların duyularına yerleşir. Bu gibi ifadeler öyle bir etkiye sahiptir ki kuşaktan kuşağa aktarılır.
 * Toplumsal cinsiyette eşitlik kavramı:
   * Bu kavram cinsiyetlerin bireylerin karşısına çıkan fırsatlar, kaynaklar, hizmetlere ulaşma gibi konularda cinsiyetler arasında oluşan kavramlara gönderme yapar.
   * Kadın ve Erkeklerin sorumlulukları ve gelir dağılımlarında adalet ve hakkaniyet olması gerekmektedir. 
   * Kadın ve erkeklerin farklı özelliklerin ve gereksinimlerinin olduğu kabul edilmeli, ve bu farklılıklardan dengesizliğin düzeltilmesi için gerekenler yapılmalıdır.
-  * Toplumun kadın ve erkek için biçtiği roller ve kalıplar her iki cinsi de olumsuz etkilemektedir.
+  * Toplumun kadın ve erkek için biçtiği roller ve kalıplar her iki cinsi de olumsuz etkilemektedir.  
+* Gelişmiş gelişmemiş tüm toplumlarda, özel olarak adlandırılan ev-içi üretim işleri kadına, kamusal alan olarak adlandırılan ev-dışı üretim işleri erkeğe devredilmiştir. 
 

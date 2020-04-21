@@ -36,3 +36,18 @@
   * Toplumun kadın ve erkek için biçtiği roller ve kalıplar her iki cinsi de olumsuz etkilemektedir.  
 * Gelişmiş gelişmemiş tüm toplumlarda, özel olarak adlandırılan ev-içi üretim işleri kadına, kamusal alan olarak adlandırılan ev-dışı üretim işleri erkeğe devredilmiştir. 
 
+#### Toplumsal Cinsiyet Oluşumu ile İlgili Kuramlar
+
+*  Psikanalitik Kuram -**Freud**
+
+  * Kadın ve erkeğin nasıl kadınsı ve erkeksi özellikleri edindiğini açıklamaya çalışır.
+  * Freud'a göre insan kişiliğinin üç temel birimi bulunmaktadır: **id,ego ve süperego**
+
+  > ID: Zevk ilkesine göre işleyen davranışların en temel içgüdünün ismidir.
+  >
+  > Ego: Id'nin hayvansal yaşam enerjisinin ortamın gereklerine göre ortaya çıkma şeklidir.
+
+
+
+
+

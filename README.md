@@ -1,15 +1,15 @@
-# SUNUM
+# :book: SUNUM
 
-## Giriş
+## Giriş 📖 
 
 Öncelikle herkese merhabalar. Toplumsal cinsiyet bağlamında erkeklik olgusu isimli kitap hakkındaki sunumuma başlamadan önce sizlere sunumda ele alacağımız temel başlıklardan bahsetmek istiyorum. Öncelikle ilk olarak;
 
 * Cinsiyet\(sex\) ve toplumsal cinsiyet kavramları\(gender\).
-  * Kısaca tanım, tanımların temel farkları.  
+  * Kısaca tanım, tanımların temel farkları.
 
-      Birbirine karıştırılan bu terimlerin, genel olarak türkçede karşılığı yoktur. Cinsiyetçilik kavramı genel olarak biyolojik olan cinsiyet ile bağdaştırılmaktadır. Fakat cinsiyetçiliğin tümüyle fiziksel ve biyolojik temellere dayatılması, bu kavramın tam anlamıyla tanımlanmasını güç kılmaktadır. Bu sebepten dolayı cinsiyet ve toplumsal cinsiyet kavram ayrımları ortaya çıkmıştır.
+    Birbirine karıştırılan bu terimlerin, genel olarak türkçede karşılığı yoktur. Cinsiyetçilik kavramı genel olarak biyolojik olan cinsiyet ile bağdaştırılmaktadır. Fakat cinsiyetçiliğin tümüyle fiziksel ve biyolojik temellere dayatılması, bu kavramın tam anlamıyla tanımlanmasını güç kılmaktadır. Bu sebepten dolayı cinsiyet ve toplumsal cinsiyet kavram ayrımları ortaya çıkmıştır.
 
-  * Cinsiyet kavramı genel olarak biyolojik kimliği tanımlarken, toplumsal cinsiyet kavramı cinsiyet bağlamında toplumdan topluma kültüre ve sosyal hayata bağlı olarak değişim gösteren farklılıkları tanımlamaktadır. 
+  * Cinsiyet kavramı genel olarak biyolojik kimliği tanımlarken, toplumsal cinsiyet kavramı cinsiyet bağlamında toplumdan topluma kültüre ve sosyal hayata bağlı olarak değişim gösteren farklılıkları tanımlamaktadır.
   * Bu kavram ayrımı oldukça yenidir. İlk defa 1968'de Robert Stoller tarafından toplumsal cinsiyetin cinsiyetten farklı olabileceğini anlatmak için ortaya atılmıştır. Cinsiyet doğumla beraber kazanılırken, toplumsal cinsiyet, içerisinde yaşadığımız kültür ve sosyal hayatın etkisiyle edinilen bir şeydir. İngilizcede bu kavramlar için iki farklı kelime kullanılırken, Türkçede cinsiyet ve toplumsal cinsiyet ifadeleri birbirine benzediğinden dolayı, birbirlerine karıştırılmaları oldukça kolaydır. 
   * Tarih boyunca sosyal hayatta kadın ve erkek, çevreleri tarafından belli rollere, kalıplara sokulmuştur.  
   * Kadın ve erkeğin görünürlüğü ve değerliliği kültür tarafından belirlenir. 
@@ -31,3 +31,4 @@
   * Kadın ve Erkeklerin sorumlulukları ve gelir dağılımlarında adalet ve hakkaniyet olması gerekmektedir. 
   * Kadın ve erkeklerin farklı özelliklerin ve gereksinimlerinin olduğu kabul edilmeli, ve bu farklılıklardan dengesizliğin düzeltilmesi için gerekenler yapılmalıdır.
   * Toplumun kadın ve erkek için biçtiği roller ve kalıplar her iki cinsi de olumsuz etkilemektedir.
+

@@ -27,6 +27,8 @@
 * Bebekler genellikle bilinçsiz olarak toplumsal cinsiyetlerini edinirler. Yetişkin bir erkeğin bebeği tutuşuyla bir kadının bebeği tutuşundaki fark bile o bebeğin cinsiyetler arasındaki farkı edinmesinde bir rol oynar.
 * Sadece çocuğun edinimi değil, toplumun beklentileri de çocuğu etkilemektedir. Doğum esnasında tespit edilmiş olan cinsiyet, o bebeğe karşı beklentileri de belirlemektedir. Erkek çocuklar adam olmak üzere, kız çocuklar hanım olmak üzere yetiştirilir.
 * Kadınların erkekler tarafında ezilmesine sebep olan **"nazlı kızım", "aslan oğlum"** gibi sözcükler çocukların duyularına yerleşir. Bu gibi ifadeler öyle bir etkiye sahiptir ki kuşaktan kuşağa aktarılır.
+  * Üstelik bu ifadeler kadınların kendisi tarafından çocuklara söylenir. Yani kadın cinsiyeti kendi cinsiyetinin ezilmesinde rol almakla beraber, bu gibi ifadelerin sürdürücüsü de olmaktadırlar.
+  * Her ne kadar kadınlar toplumlarda erkeklere göre daha düşük ifadelerle adlandırılsalar da, anneler erkek çocuklarını **"mert, yiğit, aslan"** gibi ifadelerle yetiştirmektedirler. 
 * Toplumsal cinsiyette eşitlik kavramı:
   * Bu kavram cinsiyetlerin bireylerin karşısına çıkan fırsatlar, kaynaklar, hizmetlere ulaşma gibi konularda cinsiyetler arasında oluşan kavramlara gönderme yapar.
   * Kadın ve Erkeklerin sorumlulukları ve gelir dağılımlarında adalet ve hakkaniyet olması gerekmektedir. 
